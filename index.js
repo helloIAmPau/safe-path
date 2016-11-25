@@ -1,4 +1,4 @@
-const pathModule require('path');
+const pathModule = require('path');
 
 const service = {};
 
