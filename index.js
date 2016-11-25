@@ -22,4 +22,4 @@ service.basename = function(path) {
 
 service.sep = '/';
 
-export default service;
+module.exports = service;
